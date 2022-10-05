@@ -1,0 +1,3 @@
+# Data on Subgroup Algorithms - Counting the Evaluated Number of Subgroups
+* Columns: Dataset_name, target_value, depth, -real_time_taken, -failed, -sgs_evaluated, -sgs_eval_interesting, -sgs_quality_interesting, -sgs_top_k_interesting
+* Collected by running the algorithm for set amount of time and maximal available memory. SD task setting correspond to target value, dataset name, and depth mentioned in the file. ALl other SD settings are the default settings as given in the config file.

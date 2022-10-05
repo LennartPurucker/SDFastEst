@@ -1,0 +1,6 @@
+pysubgroup==0.7.2
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
