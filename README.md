@@ -31,5 +31,20 @@ framework.
 
 If you use our code or data in scientific publications, we would appreciate citations.
 
-**_The relevant publication is to be published in November-December._**
+**Estimating the Pruned Search Space Size of Subgroup Discovery**, _Purucker et al.,_
+_International Conference on Data Mining, 2022_
 
+[Link](https://ieeexplore.ieee.org/abstract/document/10027642) to publication.
+
+```
+@inproceedings{purucker2022sdfastest,
+  author    = {Lennart Purucker and
+               Felix I. Stamm and
+               Florian Lemmerich and
+               Joeran Beel},
+  title     = {Estimating the Pruned Search Space Size of Subgroup Discovery},
+  booktitle = {{IEEE} International Conference on Data Mining, {ICDM} 2022, Orlando,
+               FL, USA, November 28 - Dec. 1, 2022},
+  year      = {2022},
+}
+```
